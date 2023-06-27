@@ -1,2 +1,8 @@
 # BreastCancer_AI_Knn
-a simple AI project that determines and computes the probability of having cancer By Using Knn
+a simple AI project that determines and computes the probability of having breast cancer By Using Knn
+
+AS A TRAINING EXAMPLE, I GAVE IT CSV FILE CONTAINED BY DETAILS OF MORE THAN 100 PEOPLE WHO HAD OR DIDN'T HAVE CANCER
+1. SET A TRAINING DATA
+2. SET A TESTING DATA
+
+AND AT THE END, THE AI MACHIN COMPUTES THE PERCENTAGE OF THE PROBABILITY OF HAVING BREAST CANCER FOR ANY PATIANT WITH ACURRACY OF 70 PERCENTS
